@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+![Ariqun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariqun&show_icons=true&theme=dracula&hide=stars,issues&count_private=true&include_all_commits&custom_title="Ariqun's%20GitHub%20stats")
+
+[![Quiz](https://github-readme-stats.vercel.app/api/pin/?username=ariqun&repo=quiz)](https://github.com/Ariqun/quiz)
+
+
+
+
+
 <!--
 **Ariqun/Ariqun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
