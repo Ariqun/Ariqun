@@ -18,6 +18,7 @@ JavaScript (React, Redux), HTML, CSS (SASS)
 ## Minor projects ##
 [![Quiz](https://github-readme-stats.vercel.app/api/pin/?username=ariqun&repo=quiz)](https://github.com/Ariqun/quiz)
 [![Diary](https://github-readme-stats.vercel.app/api/pin/?username=ariqun&repo=Diary)](https://github.com/Ariqun/Diary)
+[![Sudoku](https://github-readme-stats.vercel.app/api/pin/?username=ariqun&repo=Sudoku)](https://github.com/Ariqun/Sudoku)
 
 <!--
 **Ariqun/Ariqun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
