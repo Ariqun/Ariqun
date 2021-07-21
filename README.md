@@ -13,7 +13,7 @@ JavaScript (React, Redux), HTML, CSS (SASS)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariqun&layout=compact&theme=dracula)
 
 ## Major projects ##
-
+[![LoS](https://github-readme-stats.vercel.app/api/pin/?username=ariqun&repo=League-of-stats)](https://github.com/Ariqun/League-of-stats)
 
 ## Minor projects ##
 [![Quiz](https://github-readme-stats.vercel.app/api/pin/?username=ariqun&repo=quiz)](https://github.com/Ariqun/quiz)
