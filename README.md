@@ -14,6 +14,7 @@ JavaScript (React, Redux), HTML, CSS (SASS)
 
 ## Major projects ##
 [![LoS](https://github-readme-stats.vercel.app/api/pin/?username=ariqun&repo=League-of-stats)](https://github.com/Ariqun/League-of-stats)
+[![Messenger](https://github-readme-stats.vercel.app/api/pin/?username=ariqun&repo=Messenger)](https://github.com/Ariqun/Messenger)
 
 ## Minor projects ##
 [![Quiz](https://github-readme-stats.vercel.app/api/pin/?username=ariqun&repo=quiz)](https://github.com/Ariqun/quiz)
