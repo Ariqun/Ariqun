@@ -5,7 +5,7 @@
 
 
 ## :memo: Tech stack ##
-JavaScript (React, Redux), HTML, CSS (SASS)
+JavaScript, TypeScript, React, Redux, MobX, HTML, CSS (SASS)
 
 
 ## :chart_with_upwards_trend: GitHub Stats ##
