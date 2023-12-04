@@ -1,6 +1,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariqun&layout=compact&theme=dracula)
 
+## Major projects ##
 [![LoS](https://github-readme-stats.vercel.app/api/pin/?username=ariqun&repo=League-of-stats)](https://github.com/Ariqun/League-of-stats)
+
+## Minor projects ##
+[![Sudoku](https://github-readme-stats.vercel.app/api/pin/?username=ariqun&repo=Sudoku)](https://github.com/Ariqun/Sudoku)
 
 <!--
 **Ariqun/Ariqun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
